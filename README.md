@@ -4,6 +4,8 @@
 This repository contains the code of our paper [Adaptation of Hierarchical Structured Models for Speech Act Recognition in Asynchronous Conversation](https://arxiv.org/pdf/1904.04021.pdf)  (NAACL-HLT 2019).
 
 
+![Full Model](https://taasnim.github.io/img/speech-act/speech-act-model.png)
+
 
 ## Requirements
 
